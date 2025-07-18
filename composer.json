@@ -1,0 +1,15 @@
+{
+    "name": "ddon5/module6a_mvc_project",
+    "autoload": {
+        "psr-4": {
+            "Ddon5\\Module6aMvcProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sjohn0731",
+            "email": "34875798+sjohn0731@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
