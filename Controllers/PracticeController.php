@@ -11,7 +11,7 @@ class PracticeController {
         $practice = new GuitarPractice();
         $result = $practice->saveSession($date, $minutes, $song);
 
-        echo $result;
+        include __DIR__ . 'module6a_mvc_project\views\practice_log.php';
     }
 }
 ?>
